@@ -1,4 +1,4 @@
-name: deploy viniciusjunior
+name: deploy programLaMasia
 
 on:
   push:
